@@ -1,6 +1,8 @@
-# APM-Demo0
+# APM-Demo1
 
-Starter files with no NgRx added.
+Demo of the most basic implementation of NgRx for a simple boolean flag.
+
+The goal of this demo is to introduce the parts of NgRx for a simple, easy to reason about, use case.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.2.
 
