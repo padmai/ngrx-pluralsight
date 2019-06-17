@@ -1,6 +1,8 @@
-# APM-Demo0
+# APM-Demo3
 
-Starter files with no NgRx added.
+Demo of using effects for retrieving and displaying data.
+NOTE: The create, update, and delete operations no longer work in this version of the demo since we moved only the retrieve to NgRx.
+The create, update, and delete are implemented with NgRx in Demo4.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.2.
 
