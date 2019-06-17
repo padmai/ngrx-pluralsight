@@ -1,6 +1,6 @@
-# APM-Demo0
+# APM-Demo4
 
-Starter files with no NgRx added.
+Demo of create, update, and delete operations using NgRx.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.2.
 
